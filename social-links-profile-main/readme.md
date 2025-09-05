@@ -22,8 +22,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ejike-allwell/social-review-card.git](https://github.com/ejike-allwell/social-review-card.git)
+- Live Site URL: [https://social-review-card.vercel.app/](https://social-review-card.vercel.app/)
+
 
 ## My process
    I first started off by building the structure and added the style after the structure has been completed and committed all changes, added the social of my own personal profile except my image.
@@ -42,10 +43,12 @@ i learnt how to make buttons that will work, and by that i mean that can navigat
 
  i will to learn how to control my  layout more better
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/@ejike-allwell)
-- Twitter - [@yourusername](https://www.twitter.com/@ejike89707)
+- Frontend Mentor -[@ejike-allwell] (https://www.frontendmentor.io/profile/@ejike-allwell)
+- Twitter - [@ejike897067](https://www.twitter.com/@ejike89707)
 
 
 ## Acknowledgments
  
-I will give a hat off for w3school and chatgpt
+I will give a hat off for w3school and chatgpt.
+
+
